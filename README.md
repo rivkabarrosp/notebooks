@@ -1,5 +1,4 @@
 # notebooks
-Projects notebooks
 
 This repository contains notebooks used in different projects. Projects aren't necessarily related. This is for documentation purposes.
 
