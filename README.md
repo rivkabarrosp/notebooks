@@ -2,7 +2,7 @@
 
 This repository contains notebooks used in different projects. Projects aren't necessarily related. This is for documentation purposes.
 
-You'll find the following projects here:
+You'll find informations regarding the following projects bellow:
 
 1. **When Was the Golden Age of Video Games?**
 
